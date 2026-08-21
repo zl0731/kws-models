@@ -1,3 +1,5 @@
+This repository is based on Google's kws_streaming project.
+
 # KWS Model Checkpoints: TC-ResNet & BC-ResNet
 
 Trained keyword spotting models on [Speech Commands V2](https://arxiv.org/abs/1804.03209) (12 labels).
